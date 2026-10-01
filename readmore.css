@@ -1,0 +1,30 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f7fa;
+    margin: 50px;
+}
+
+#content,
+#rmm {
+    width: 500px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    line-height: 1.6;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+#rm,
+#rl {
+    color: #227ADD;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 16px;
+}
+#rm:hover,
+#rl:hover {
+    text-decoration: underline;
+} 
